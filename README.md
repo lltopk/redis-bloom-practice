@@ -116,7 +116,7 @@ class DebugBloomApplicationTests {
 ```
 打印信息如下：
 
-布隆过滤器中提前设置的有效元素数为：elementCount = 991。
+布隆过滤器中提前设置的有效元素数为：elementCount = 10000。
 
 正常来说10001-20000号元素都不存在才对，
 
